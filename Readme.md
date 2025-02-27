@@ -3,6 +3,9 @@
 ## Overview
 The Stock Management System is a desktop application built using Python and the CustomTkinter library. It allows users to manage stock items, including adding, removing, and viewing stock details. The application also provides functionalities to export stock data to Excel files for further analysis.
 
+![Overview Image](data/Images/image.png)
+
+
 ## Features
 - **Add Stock**: Users can add new stock items along with their quantities and types.
 - **Remove Stock**: Users can remove stock items and specify reasons for removal.
